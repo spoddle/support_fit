@@ -1,11 +1,24 @@
-# Sample Snack app
+# Support FIT
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Support FIT is a handy mobile app built to help IT faculty students stay informed, connected, and supported.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## What It Does
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+This app gives you quick access to essential information, answers to frequently asked questions, and an easy way to get in touch with the student council. You can:
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- Sign up and log in securely
+- Find answers to common student questions
+- Access important updates and resources
+- Send feedback or requests directly to the student council
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Tech Stack
+
+Built with:
+
+- React Native – for smooth cross-platform development  
+- Expo – for fast development and testing  
+- Appwrite – handles authentication and stores all the data  
+
+## Made for students.
+
+Designed Support FIT to make student life easier and more organized. Whether you're lost in a stream of incomprehensible information, looking for contacts, or just need to reach out — we got your back.
